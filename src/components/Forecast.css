@@ -9,7 +9,7 @@
     align-items: center;
     cursor: pointer;
     font-size: 15px;
-    padding: 5px 10px;
+    padding: 5px 7px;
 }
 
 .icon-small {
@@ -20,12 +20,12 @@
     color: #212121;
     flex: 1 1;
     font-weight: 600;
-    margin-left: 5px;
+    margin-left: 2px;
 }
 
 .description {
     flex: 1 1;
-    margin-right: 15px;
+    margin-right: 10px;
     text-align: right;
 }
 
@@ -39,7 +39,7 @@
     grid-column-gap: 15px;
     flex: 1 1;
     grid-template-columns: auto auto;
-    padding: 5px 25px;
+    padding: 5px 10px;
 }
 
 .grid-item {

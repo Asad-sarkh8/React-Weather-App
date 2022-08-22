@@ -46,7 +46,7 @@ const Forecast=({data})=>{
                                         <label >{item.clouds.all}%</label>
                                     </div>
                                     <div className="grid-item">
-                                        <label >Wind Speed</label>
+                                        <label >Wind</label>
                                         <label >{item.wind.speed} m/s</label>
                                     </div>
                                     <div className="grid-item">
